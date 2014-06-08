@@ -1,0 +1,21 @@
+{
+  "name": "generator-wildstar",
+  "version": "0.1.0",
+  "description": "Yeoman generator for Wildstar addons.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glompix/generator-wildstar.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Stuart Branham (@glompix)",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/glompix/generator-wildstar/issues"
+  },
+  "homepage": "https://github.com/glompix/generator-wildstar",
+  "dependencies": {
+    "yeoman-generator": "~0.17.0"
+  }
+}
